@@ -7,7 +7,7 @@
 ========================
 
 
-![Screenshot or Gif of the app.](./assets/screenshot..png)
+![Screenshot or Gif of the app.](./assets/screenshot.png)
 
 
 
